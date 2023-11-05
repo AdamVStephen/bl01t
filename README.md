@@ -1,5 +1,14 @@
+My Test Beamline Project
+========================
+
+This is stepping through the quick start guide for the epics-containers work.
+
+Thanks Giles Knap.
+
 Template for a Beamline or Accelerator Domain Repository
 ========================================================
+
+
 
 This is where you will define all IOC instances for the beamline/domain.
 
